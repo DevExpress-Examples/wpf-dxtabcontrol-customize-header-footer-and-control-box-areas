@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainView.xaml](./CS/DXTabControlExample/View/MainView.xaml) (VB: [MainView.xaml](./VB/DXTabControlExample/View/MainView.xaml))**
+<!-- default file list end -->
 # How to: Customize DXTabControl's Content Header, Content Footer and Control Box Areas
 
 
