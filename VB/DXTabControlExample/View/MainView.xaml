@@ -41,7 +41,7 @@
 
             <!--Control Box Templates-->
             <DataTemplate x:Key="ControlBoxLeftTemplate">
-                <TextBlock Text="Employees: " FontWeight="Medium"  Margin="0,2,0,0"/>
+                <TextBlock Text="Employees: " FontWeight="Medium"  Margin="4,4,0,0"/>
             </DataTemplate>
 
             <DataTemplate x:Key="ControlBoxRightTemplate">
