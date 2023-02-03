@@ -42,8 +42,8 @@ Namespace DXTabControlExample.ViewModel
             MessageBox.Show("Updated")
         End Sub
 
-        Public Sub Analize()
-            MessageBox.Show("Analize")
+        Public Sub Analyze()
+            MessageBox.Show("Analyze")
         End Sub
 
         Public Sub ShowStatistics()

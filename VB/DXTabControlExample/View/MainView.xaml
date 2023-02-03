@@ -51,7 +51,7 @@
             </DataTemplate>
 
             <DataTemplate x:Key="ControlBoxPanelTemplate">
-                <Button Margin="5,2,0,0" Command="{Binding AnalizeCommand}">
+                <Button Margin="5,2,0,0" Command="{Binding AnalyzeCommand}">
                     <Image Source="{dx:DXImage Image=3DLine_16x16.png}"/>
                 </Button>
             </DataTemplate>
