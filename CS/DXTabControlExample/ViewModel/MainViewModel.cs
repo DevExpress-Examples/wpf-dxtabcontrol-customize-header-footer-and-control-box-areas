@@ -80,9 +80,9 @@ namespace DXTabControlExample.ViewModel {
             MessageBox.Show("Updated");
         }
 
-        public void Analize()
+        public void Analyze()
         {
-            MessageBox.Show("Analize");
+            MessageBox.Show("Analyze");
         }
         public void ShowStatistics()
         {
