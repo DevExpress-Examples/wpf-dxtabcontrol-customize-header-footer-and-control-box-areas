@@ -3,19 +3,30 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T245606)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* **[MainView.xaml](./CS/DXTabControlExample/View/MainView.xaml) (VB: [MainView.xaml](./VB/DXTabControlExample/View/MainView.xaml))**
-<!-- default file list end -->
-# How to: Customize DXTabControl's Content Header, Content Footer and Control Box Areas
+# Customize DXTabControl's Content Header, Content Footer and Control Box Areas
 
+This example uses the [DXTabControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl)'s templates to customize footer, header, and control box areas.
 
-DXTabControl provides special templates to customize the footer, header and control box areas. These templates are
+![image](https://user-images.githubusercontent.com/65009440/216605474-40a025bf-02e0-47d3-b94d-3c956c7c3431.png)
 
-* <a href="https://documentation.devexpress.com/WPF/DevExpressXpfCoreDXTabControl_ControlBoxLeftTemplatetopic.aspx">DXTabControl.ControlBoxLeftTemplate</a><br>-<a href="https://documentation.devexpress.com/WPF/DevExpressXpfCoreDXTabControl_ControlBoxRightTemplatetopic.aspx">DXTabControl.ControlBoxRightTemplate</a> <br>-<a href="https://documentation.devexpress.com/WPF/DevExpressXpfCoreDXTabControl_ControlBoxPanelTemplatetopic.aspx">DXTabControl.ControlBoxPanelTemplate</a> 
-* <a href="https://documentation.devexpress.com/WPF/DevExpressXpfCoreDXTabControl_ContentFooterTemplatetopic.aspx">DXTabControl.ContentFooterTemplate</a><br>-<a href="https://documentation.devexpress.com/WPF/DevExpressXpfCoreDXTabControl_ContentHeaderTemplatetopic.aspx">DXTabControl.ContentHeaderTemplate</a> <br><br>To learn more about appearance customization in DXTabControl, refer to <a href="https://documentation.devexpress.com/#WPF/CustomDocument113899">Appearance Customization</a>.
+* The [ControlBoxLeftTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl.ControlBoxLeftTemplate) adds the **Employees:** text.
+* The [ControlBoxRightTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl.ControlBoxRightTemplate) adds the **Show Statistics** button.
+* The [ControlBoxPanelTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl.ControlBoxPanelTemplate) adds the **Analyze** button.
+* The [ContentHeaderTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl.ContentHeaderTemplate) adds the **Update All** button.
+* The [ContentFooterTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl.ContentFooterTemplate) adds the colored area to the bottom.
 
-<br/>
+## Files to Review
 
+* [MainView.xaml](./CS/DXTabControlExample/View/MainView.xaml) (VB: [MainView.xaml](./VB/DXTabControlExample/View/MainView.xaml))
 
+## Documentation
+
+* [DXTabControl](https://docs.devexpress.com/WPF/7975/controls-and-libraries/layout-management/tab-control/fundamentals/dxtabcontrol)
+* [Appearance Customization](https://docs.devexpress.com/WPF/113899/controls-and-libraries/layout-management/tab-control/concepts/appearance-customization)
+
+## More Examples
+
+* [Create a DXTabControl in Code](https://github.com/DevExpress-Examples/how-to-create-a-dxtabcontrol-in-code-e2150)
+* [Change Tab Background in DXTabControl and Keep the Default Highlight Effects](https://github.com/DevExpress-Examples/how-to-change-tab-background-in-dxtabcontrol-and-keep-the-default-highlight-effects-t327840)
+* [Change the Tab Background in DXTabControl when a Tab Is Selected, Focused, Or Hovered](https://github.com/DevExpress-Examples/how-to-change-the-tab-background-in-dxtabcontrol-when-a-tab-is-selected-focused-or-hovered-t327852)
