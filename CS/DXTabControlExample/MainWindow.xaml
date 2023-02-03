@@ -1,11 +1,9 @@
-<dx:DXTabbedWindow x:Class="DXTabControlExample.MainWindow"
+<Window x:Class="DXTabControlExample.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
     xmlns:v="clr-namespace:DXTabControlExample.View" 
-    ShowIcon="False" TabbedWindowMode="Normal"  
-    Title="Tab Control Customization Areas" Height="620" Width="950">
+    Height="620" Width="950">
     <Grid>
         <v:MainView/>
     </Grid>
-</dx:DXTabbedWindow>
+</Window>

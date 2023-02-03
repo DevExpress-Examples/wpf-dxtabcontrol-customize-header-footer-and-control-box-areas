@@ -1,7 +1,5 @@
-﻿using System.Windows;
-
-namespace DXTabControlExample {
-    public partial class MainWindow : DevExpress.Xpf.Core.DXTabbedWindow {
+﻿namespace DXTabControlExample {
+    public partial class MainWindow {
         public MainWindow() {
             InitializeComponent();
         }
