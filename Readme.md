@@ -4,9 +4,9 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Customize DXTabControl's Content Header, Content Footer, and Control Box Areas
+# WPF DXTabControl - Customize Content Header, Content Footer, and Control Box Areas
 
-This example uses the [DXTabControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl)'s templates to customize footer, header, and control box areas.
+This example uses [DXTabControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.DXTabControl) templates to customize footer, header, and control box areas.
 
 ![image](https://user-images.githubusercontent.com/65009440/216605474-40a025bf-02e0-47d3-b94d-3c956c7c3431.png)
 
