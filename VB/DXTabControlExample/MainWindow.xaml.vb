@@ -1,11 +1,10 @@
-﻿Imports System.Windows
-
 Namespace DXTabControlExample
-    Partial Public Class MainWindow
+
+    Public Partial Class MainWindow
         Inherits DevExpress.Xpf.Core.DXTabbedWindow
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
