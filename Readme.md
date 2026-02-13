@@ -32,7 +32,7 @@ This example uses [DXTabControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.
 * [Change Tab Background in DXTabControl and Keep the Default Highlight Effects](https://github.com/DevExpress-Examples/how-to-change-tab-background-in-dxtabcontrol-and-keep-the-default-highlight-effects-t327840)
 * [Change the Tab Background in DXTabControl when a Tab Is Selected, Focused, Or Hovered](https://github.com/DevExpress-Examples/how-to-change-the-tab-background-in-dxtabcontrol-when-a-tab-is-selected-focused-or-hovered-t327852)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dxtabcontrol-customize-header-footer-and-control-box-areas&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dxtabcontrol-customize-header-footer-and-control-box-areas&~~~was_helpful=no)
 
