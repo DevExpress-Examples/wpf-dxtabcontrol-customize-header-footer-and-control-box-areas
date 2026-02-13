@@ -21,7 +21,7 @@ DXTabControl provides special templates to customize the footer, header and con
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dxtabcontrol-customize-header-footer-and-control-box-areas&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dxtabcontrol-customize-header-footer-and-control-box-areas&~~~was_helpful=no)
 
